@@ -87,27 +87,27 @@ h3 {
 }
 
 #img-1 {
-  background-image: url('./assets/game1.jpg');
+  background-image: url('./assets/img/game1.jpg');
 }
 
 #img-2 {
-  background-image: url('./assets/game2.jpg');
+  background-image: url('./assets/img/game2.jpg');
 }
 
 #img-3 {
-  background-image: url('./assets/game3.jpg');
+  background-image: url('./assets/img/game3.jpg');
 }
 
 #img-4 {
-  background-image: url('./assets/game4.jpg');
+  background-image: url('./assets/img/game4.jpg');
 }
 
 #img-5 {
-  background-image: url('./assets/game5.jpg');
+  background-image: url('./assets/img/game5.jpg');
 }
 
 #img-6 {
-  background-image: url('./assets/game6.jpg');
+  background-image: url('./assets/img/game6.jpg');
 }
 
 /* Footer */
@@ -120,6 +120,7 @@ footer {
 }
 
 footer a {
+  color: #fff;
   text-decoration: none;
 }
 
